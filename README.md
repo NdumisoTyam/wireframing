@@ -45,6 +45,30 @@ Wireframes typically come in two main types: low-fidelity and high-fidelity.
   These wireframes are more detailed and closer to the final design. They include precise layout, typography, and sometimes grayscale or limited color schemes. High-fidelity wireframes provide a clearer vision of the user interface and are often used later in the design process to communicate design intent more effectively before moving to prototypes or development.
 
 Choosing between low-fidelity and high-fidelity wireframes depends on the stage of the project and the level of detail needed for communication and decision-making.
+## Popular Wireframing Tools
+
+There are many tools available to create wireframes, each with its own strengths depending on the project's needs and the team’s preferences. Some popular wireframing tools include:
+
+- **Figma**  
+  A cloud-based design tool that enables real-time collaboration. Figma is widely used for wireframing, UI design, and prototyping because it is accessible through web browsers without any installation, supports version control, and allows multiple users to work on a project simultaneously. Its intuitive interface and extensive plugin ecosystem make it a top choice for designers and developers alike.
+
+- **Sketch**  
+  A vector-based design tool primarily used on macOS, popular for UI/UX design and wireframing.
+
+- **Adobe XD**  
+  A powerful tool for designing and prototyping user experiences, with good integration into the Adobe Creative Cloud ecosystem.
+
+- **Balsamiq**  
+  Focused on low-fidelity wireframes, it offers a hand-drawn style to encourage brainstorming and early-stage design iteration.
+
+### Why Figma is Recommended for Wireframing
+
+- **Collaborative**: Multiple team members can work simultaneously on the same wireframe, making feedback and iteration faster.
+- **Web-based**: No software installation needed, making it accessible on different platforms.
+- **Versatile**: Supports everything from low-fidelity wireframes to high-fidelity mockups and interactive prototypes.
+- **Extensible**: Has a rich library of plugins and community resources to speed up design workflows.
+
+Because of these features, Figma is highly recommended for teams looking to streamline their wireframing and UI design processes.
 
 ## Wireframe Type in the Provided Figma Design
 
